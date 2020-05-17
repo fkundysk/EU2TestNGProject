@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e433fb-8099-4f09-b250-bab845a48ded" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day14_properties_driver_test/PropertiesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-    </list>
+    <list default="true" id="55e433fb-8099-4f09-b250-bab845a48ded" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +55,7 @@
       <recent name="$PROJECT_DIR$/src/test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.PropertiesTest.test1">
+  <component name="RunManager" selected="TestNG.SingletonTest.test">
     <configuration name="HoverTest.oneImage" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EU2TestNGProject" />
       <extension name="coverage">
@@ -114,6 +110,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SingletonTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EU2TestNGProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day14_properties_driver_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day14_properties_driver_test" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day14_properties_driver_test.SingletonTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WebTablesExample.getCellInRelationToanotherCellInSameRow" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EU2TestNGProject" />
       <extension name="coverage">
@@ -132,31 +146,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="iFrames.test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="EU2TestNGProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day9_popups_tabs_frames.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day9_popups_tabs_frames" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day9_popups_tabs_frames.iFrames" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SingletonTest.test" />
         <item itemvalue="TestNG.PropertiesTest.test1" />
         <item itemvalue="TestNG.WebTablesExample.getCellInRelationToanotherCellInSameRow" />
         <item itemvalue="TestNG.HoverTest.test1" />
         <item itemvalue="TestNG.HoverTest.oneImage" />
-        <item itemvalue="TestNG.iFrames.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -215,10 +211,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1228" y="302" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1588554346021" />
-    <state width="867" height="305" key="GridCell.Tab.0.bottom" timestamp="1589758204395">
-      <screen x="0" y="23" width="1920" height="992" />
+    <state width="916" height="305" key="GridCell.Tab.0.bottom" timestamp="1589758765456">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="867" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1589758052612" />
+    <state width="916" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1589758765456" />
     <state width="1438" height="192" key="GridCell.Tab.0.bottom/0.23.1920.1001@0.23.1920.1001" timestamp="1588281547590" />
     <state width="1878" height="419" key="GridCell.Tab.0.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1588255857585" />
     <state width="953" height="347" key="GridCell.Tab.0.bottom/0.23.1920.983@0.23.1920.983" timestamp="1586452758021" />
@@ -232,10 +228,10 @@
     <state width="1878" height="330" key="GridCell.Tab.0.bottom/0.23.1920.994@0.23.1920.994" timestamp="1588167818876" />
     <state width="1181" height="232" key="GridCell.Tab.0.bottom/0.23.1920.996@0.23.1920.996" timestamp="1588626386539" />
     <state width="1181" height="232" key="GridCell.Tab.0.bottom/0.23.1920.997@0.23.1920.997" timestamp="1588692686943" />
-    <state width="867" height="305" key="GridCell.Tab.0.center" timestamp="1589758204394">
-      <screen x="0" y="23" width="1920" height="992" />
+    <state width="916" height="305" key="GridCell.Tab.0.center" timestamp="1589758765455">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="867" height="305" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1589758052611" />
+    <state width="916" height="305" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1589758765455" />
     <state width="1438" height="192" key="GridCell.Tab.0.center/0.23.1920.1001@0.23.1920.1001" timestamp="1588281547589" />
     <state width="1878" height="419" key="GridCell.Tab.0.center/0.23.1920.1002@0.23.1920.1002" timestamp="1588255857584" />
     <state width="953" height="347" key="GridCell.Tab.0.center/0.23.1920.983@0.23.1920.983" timestamp="1586452758020" />
@@ -249,10 +245,10 @@
     <state width="1878" height="330" key="GridCell.Tab.0.center/0.23.1920.994@0.23.1920.994" timestamp="1588167818876" />
     <state width="1181" height="232" key="GridCell.Tab.0.center/0.23.1920.996@0.23.1920.996" timestamp="1588626386538" />
     <state width="1181" height="232" key="GridCell.Tab.0.center/0.23.1920.997@0.23.1920.997" timestamp="1588692686942" />
-    <state width="867" height="305" key="GridCell.Tab.0.left" timestamp="1589758204394">
-      <screen x="0" y="23" width="1920" height="992" />
+    <state width="916" height="305" key="GridCell.Tab.0.left" timestamp="1589758765454">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="867" height="305" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1589758052611" />
+    <state width="916" height="305" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1589758765454" />
     <state width="1438" height="192" key="GridCell.Tab.0.left/0.23.1920.1001@0.23.1920.1001" timestamp="1588281547589" />
     <state width="1878" height="419" key="GridCell.Tab.0.left/0.23.1920.1002@0.23.1920.1002" timestamp="1588255857584" />
     <state width="953" height="347" key="GridCell.Tab.0.left/0.23.1920.983@0.23.1920.983" timestamp="1586452758020" />
@@ -266,10 +262,10 @@
     <state width="1878" height="330" key="GridCell.Tab.0.left/0.23.1920.994@0.23.1920.994" timestamp="1588167818875" />
     <state width="1181" height="232" key="GridCell.Tab.0.left/0.23.1920.996@0.23.1920.996" timestamp="1588626386537" />
     <state width="1181" height="232" key="GridCell.Tab.0.left/0.23.1920.997@0.23.1920.997" timestamp="1588692686941" />
-    <state width="867" height="305" key="GridCell.Tab.0.right" timestamp="1589758204395">
-      <screen x="0" y="23" width="1920" height="992" />
+    <state width="916" height="305" key="GridCell.Tab.0.right" timestamp="1589758765455">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="867" height="305" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1589758052612" />
+    <state width="916" height="305" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1589758765455" />
     <state width="1438" height="192" key="GridCell.Tab.0.right/0.23.1920.1001@0.23.1920.1001" timestamp="1588281547590" />
     <state width="1878" height="419" key="GridCell.Tab.0.right/0.23.1920.1002@0.23.1920.1002" timestamp="1588255857585" />
     <state width="953" height="347" key="GridCell.Tab.0.right/0.23.1920.983@0.23.1920.983" timestamp="1586452758020" />
