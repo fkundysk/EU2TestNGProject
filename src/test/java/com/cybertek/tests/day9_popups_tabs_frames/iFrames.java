@@ -29,7 +29,7 @@ public class iFrames {
 
         //how to switch frames
         //1.Switch USING BY NAME OR ID attribute of iframe
-        driver.switchTo().frame(            "mce_0_ifr");
+        driver.switchTo().frame("mce_0_ifr");
 
         //clear before sendkeys
         driver.findElement(By.id("tinymce")).clear();

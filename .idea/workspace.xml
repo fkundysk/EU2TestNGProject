@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e433fb-8099-4f09-b250-bab845a48ded" name="Default Changelist" comment="" />
+    <list default="true" id="55e433fb-8099-4f09-b250-bab845a48ded" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day9_popups_tabs_frames/iFrames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day9_popups_tabs_frames/iFrames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/EU2TestNGProject.kotlin_module" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,21 +38,18 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1a2yXTlc60xCVHZGbx0ABLlJwXY" />
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -40,36 +61,18 @@
       <recent name="$PROJECT_DIR$/src/test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.MultipleWindows.moreThan2Window">
-    <configuration name="CreateCar.CreateCar" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.HoverTest.test1">
+    <configuration name="ExplicitWaitExample.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EU2TestNGProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.VyTrack.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day10_sync.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.VyTrack" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.VyTrack.CreateCar" />
-      <option name="METHOD_NAME" value="CreateCar" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FilePathExample.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="EU2TestNGProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day11_file_upload.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day11_file_upload" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day11_file_upload.FilePathExample" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day10_sync" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day10_sync.ExplicitWaitExample" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -95,17 +98,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultipleWindows.moreThan2Window" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HoverTest.oneImage" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EU2TestNGProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day9_popups_tabs_frames.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day12_actions_jsexecuter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day9_popups_tabs_frames" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day9_popups_tabs_frames.MultipleWindows" />
-      <option name="METHOD_NAME" value="moreThan2Window" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day12_actions_jsexecuter" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day12_actions_jsexecuter.HoverTest" />
+      <option name="METHOD_NAME" value="oneImage" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -113,7 +116,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="iFrames.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HoverTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EU2TestNGProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day12_actions_jsexecuter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day12_actions_jsexecuter" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day12_actions_jsexecuter.HoverTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="iFrames.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EU2TestNGProject" />
       <extension name="coverage">
         <pattern>
@@ -123,7 +144,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.cybertek.tests.day9_popups_tabs_frames" />
       <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day9_popups_tabs_frames.iFrames" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -133,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.MultipleWindows.moreThan2Window" />
-        <item itemvalue="TestNG.iFrames.test2" />
-        <item itemvalue="TestNG.CreateCar.CreateCar" />
+        <item itemvalue="TestNG.HoverTest.test1" />
+        <item itemvalue="TestNG.HoverTest.oneImage" />
+        <item itemvalue="TestNG.iFrames.test1" />
         <item itemvalue="TestNG.FileUploadTest.test1" />
-        <item itemvalue="TestNG.FilePathExample.test" />
+        <item itemvalue="TestNG.ExplicitWaitExample.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -153,6 +174,18 @@
       <updated>1585948022581</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1041" y="212" key="#Project_Structure" timestamp="1588688118393">
@@ -184,8 +217,8 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1228" y="302" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1588554346021" />
-    <state width="1181" height="232" key="GridCell.Tab.0.bottom" timestamp="1588692686943">
-      <screen x="0" y="23" width="1920" height="997" />
+    <state width="1878" height="269" key="GridCell.Tab.0.bottom" timestamp="1589716676806">
+      <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state width="1878" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1588673920253" />
     <state width="1438" height="192" key="GridCell.Tab.0.bottom/0.23.1920.1001@0.23.1920.1001" timestamp="1588281547590" />
@@ -196,12 +229,13 @@
     <state width="1878" height="369" key="GridCell.Tab.0.bottom/0.23.1920.988@0.23.1920.988" timestamp="1588038519811" />
     <state width="1438" height="312" key="GridCell.Tab.0.bottom/0.23.1920.990@0.23.1920.990" timestamp="1588293112731" />
     <state width="1878" height="369" key="GridCell.Tab.0.bottom/0.23.1920.991@0.23.1920.991" timestamp="1588119181458" />
+    <state width="1878" height="269" key="GridCell.Tab.0.bottom/0.23.1920.992@0.23.1920.992" timestamp="1589716676806" />
     <state width="1878" height="369" key="GridCell.Tab.0.bottom/0.23.1920.993@0.23.1920.993" timestamp="1588120299037" />
     <state width="1878" height="330" key="GridCell.Tab.0.bottom/0.23.1920.994@0.23.1920.994" timestamp="1588167818876" />
     <state width="1181" height="232" key="GridCell.Tab.0.bottom/0.23.1920.996@0.23.1920.996" timestamp="1588626386539" />
     <state width="1181" height="232" key="GridCell.Tab.0.bottom/0.23.1920.997@0.23.1920.997" timestamp="1588692686943" />
-    <state width="1181" height="232" key="GridCell.Tab.0.center" timestamp="1588692686942">
-      <screen x="0" y="23" width="1920" height="997" />
+    <state width="1878" height="269" key="GridCell.Tab.0.center" timestamp="1589716676805">
+      <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state width="1878" height="232" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1588673920252" />
     <state width="1438" height="192" key="GridCell.Tab.0.center/0.23.1920.1001@0.23.1920.1001" timestamp="1588281547589" />
@@ -212,12 +246,13 @@
     <state width="1878" height="369" key="GridCell.Tab.0.center/0.23.1920.988@0.23.1920.988" timestamp="1588038519810" />
     <state width="1438" height="312" key="GridCell.Tab.0.center/0.23.1920.990@0.23.1920.990" timestamp="1588293112730" />
     <state width="1878" height="369" key="GridCell.Tab.0.center/0.23.1920.991@0.23.1920.991" timestamp="1588119181457" />
+    <state width="1878" height="269" key="GridCell.Tab.0.center/0.23.1920.992@0.23.1920.992" timestamp="1589716676805" />
     <state width="1878" height="369" key="GridCell.Tab.0.center/0.23.1920.993@0.23.1920.993" timestamp="1588120299036" />
     <state width="1878" height="330" key="GridCell.Tab.0.center/0.23.1920.994@0.23.1920.994" timestamp="1588167818876" />
     <state width="1181" height="232" key="GridCell.Tab.0.center/0.23.1920.996@0.23.1920.996" timestamp="1588626386538" />
     <state width="1181" height="232" key="GridCell.Tab.0.center/0.23.1920.997@0.23.1920.997" timestamp="1588692686942" />
-    <state width="1181" height="232" key="GridCell.Tab.0.left" timestamp="1588692686941">
-      <screen x="0" y="23" width="1920" height="997" />
+    <state width="1878" height="269" key="GridCell.Tab.0.left" timestamp="1589716676796">
+      <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state width="1878" height="232" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1588673920251" />
     <state width="1438" height="192" key="GridCell.Tab.0.left/0.23.1920.1001@0.23.1920.1001" timestamp="1588281547589" />
@@ -228,12 +263,13 @@
     <state width="1878" height="369" key="GridCell.Tab.0.left/0.23.1920.988@0.23.1920.988" timestamp="1588038519810" />
     <state width="1438" height="312" key="GridCell.Tab.0.left/0.23.1920.990@0.23.1920.990" timestamp="1588293112730" />
     <state width="1878" height="369" key="GridCell.Tab.0.left/0.23.1920.991@0.23.1920.991" timestamp="1588119181457" />
+    <state width="1878" height="269" key="GridCell.Tab.0.left/0.23.1920.992@0.23.1920.992" timestamp="1589716676796" />
     <state width="1878" height="369" key="GridCell.Tab.0.left/0.23.1920.993@0.23.1920.993" timestamp="1588120299035" />
     <state width="1878" height="330" key="GridCell.Tab.0.left/0.23.1920.994@0.23.1920.994" timestamp="1588167818875" />
     <state width="1181" height="232" key="GridCell.Tab.0.left/0.23.1920.996@0.23.1920.996" timestamp="1588626386537" />
     <state width="1181" height="232" key="GridCell.Tab.0.left/0.23.1920.997@0.23.1920.997" timestamp="1588692686941" />
-    <state width="1181" height="232" key="GridCell.Tab.0.right" timestamp="1588692686942">
-      <screen x="0" y="23" width="1920" height="997" />
+    <state width="1878" height="269" key="GridCell.Tab.0.right" timestamp="1589716676805">
+      <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state width="1878" height="232" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1588673920253" />
     <state width="1438" height="192" key="GridCell.Tab.0.right/0.23.1920.1001@0.23.1920.1001" timestamp="1588281547590" />
@@ -244,6 +280,7 @@
     <state width="1878" height="369" key="GridCell.Tab.0.right/0.23.1920.988@0.23.1920.988" timestamp="1588038519811" />
     <state width="1438" height="312" key="GridCell.Tab.0.right/0.23.1920.990@0.23.1920.990" timestamp="1588293112730" />
     <state width="1878" height="369" key="GridCell.Tab.0.right/0.23.1920.991@0.23.1920.991" timestamp="1588119181457" />
+    <state width="1878" height="269" key="GridCell.Tab.0.right/0.23.1920.992@0.23.1920.992" timestamp="1589716676805" />
     <state width="1878" height="369" key="GridCell.Tab.0.right/0.23.1920.993@0.23.1920.993" timestamp="1588120299036" />
     <state width="1878" height="330" key="GridCell.Tab.0.right/0.23.1920.994@0.23.1920.994" timestamp="1588167818876" />
     <state width="1181" height="232" key="GridCell.Tab.0.right/0.23.1920.996@0.23.1920.996" timestamp="1588626386538" />
@@ -297,6 +334,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1107" y="297" width="667" height="486" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1588554350743" />
+    <state x="631" y="314" key="git4idea.merge.GitPullDialog" timestamp="1589661733958">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state x="631" y="314" key="git4idea.merge.GitPullDialog/0.23.1920.992@0.23.1920.992" timestamp="1589661733958" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1588110836488">
       <screen x="0" y="23" width="1920" height="993" />
     </state>
