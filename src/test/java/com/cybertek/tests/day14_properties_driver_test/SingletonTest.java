@@ -1,6 +1,11 @@
 package com.cybertek.tests.day14_properties_driver_test;
 
+import com.cybertek.utilities.Driver;
+import com.cybertek.utilities.WebDriverFactory;
+import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
+
+import javax.sql.rowset.WebRowSet;
 
 public class SingletonTest {
     @Test
@@ -12,6 +17,18 @@ public class SingletonTest {
         System.out.println("s1 = " + s1);
         System.out.println("s2 = " + s2);
 
+    }
+
+    @Test
+    public void test1(){
+        //WebDriver driver = Driver.get();
+        Driver.get().get("http://www.google.com");
+
+        //Driver.closeDriver();
+    }
+    @Test
+    public void test2(){
+        Driver.get().get("http://www.amazon.com");
 
     }
 
