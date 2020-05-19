@@ -20,9 +20,10 @@ public class SingletonTest {
     }
 
     @Test
-    public void test1(){
+    public void test1() throws InterruptedException {
         //WebDriver driver = Driver.get();
         Driver.get().get("http://www.google.com");
+        Thread.sleep(2000);
 
         //Driver.closeDriver();
     }
