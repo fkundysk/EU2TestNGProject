@@ -6,8 +6,15 @@ import com.cybertek.pages.DashboardPage;
 import com.cybertek.pages.LoginPage;
 import com.cybertek.tests.TestBase;
 import com.cybertek.utilities.BrowserUtils;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 import org.testng.annotations.Test;
+
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 public class RepeatOptionsTests extends TestBase {
 
@@ -30,7 +37,8 @@ public class RepeatOptionsTests extends TestBase {
         dashboardPage.navigateToModule("Activities", "Calendar Events");
 
         CalendarEventsPage calendarEventsPage = new CalendarEventsPage();
-        BrowserUtils.waitFor(3);
+        //BrowserUtils.waitFor(3);
+        calendarEventsPage.waitUntilLoaderScreenDisappear();
         calendarEventsPage.createCalendarEvent.click();
 
         CreateCalendarEventsPage createCalendarEventsPage = new CreateCalendarEventsPage();
@@ -42,4 +50,49 @@ public class RepeatOptionsTests extends TestBase {
 
 
     }
+    @Test
+    public void test2(){
+    /*
+    VERIFY REPEAT OPTIONS
+        Open browser
+        Login as driver
+        Go to Activities->Calendar
+        Click on create calendar events
+        Click on repeat
+        Verify that repeat options are "Daily, Weekly, Monthly,Yearly"(in this order)
+     */
+
+        new LoginPage().loginAsDriver();
+        new DashboardPage().navigateToModule("Activities", "Calendar Events");
+
+        CalendarEventsPage calendarEventsPage = new CalendarEventsPage();
+        BrowserUtils.waitFor(3);
+        calendarEventsPage.waitUntilLoaderScreenDisappear();
+        calendarEventsPage.createCalendarEvent.click();
+
+        CreateCalendarEventsPage createCalendarEventsPage = new CreateCalendarEventsPage();
+        createCalendarEventsPage.repeat.click();
+        BrowserUtils.waitFor(3);
+
+        Select repeatDropdown = createCalendarEventsPage.repeatOptionsList();
+
+        List<String> expectedList = Arrays.asList("Daily", "Weekly", "Monthly","Yearly");
+        System.out.println("expectedList.size() = " + expectedList.size());
+
+        List <WebElement> actualOptions = repeatDropdown.getOptions();
+
+  //      List<String> actualList = new ArrayList<>();
+//        for (WebElement option : actualOptions) {
+//            actualList.add(option.getText());
+//        }
+
+        List<String> actualList2 =BrowserUtils.getElementsText(actualOptions);
+
+        Assert.assertEquals(actualList2,expectedList,"Verify dropdown options same");
+
+
+
+    }
+
+
 }

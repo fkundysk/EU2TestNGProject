@@ -20,20 +20,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55e433fb-8099-4f09-b250-bab845a48ded" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/CalendarEventsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/CreateCalendarEventsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/DashboardPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day16_pom/NegativeLoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day16_pom/PageSubtitleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day16_pom/PositiveLoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day16_pom/RepeatOptionsTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/day16_homeWork_VyTruck/BasePageHw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/day16_homeWork_VyTruck/CalendarEventsPageHw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/day16_homeWork_VyTruck/CreateCalendarEventsPageHw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/day16_homeWork_VyTruck/DashBoardPageHw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/day16_homeWork_VyTruck/LoginPageHw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/day16_homeWork_VyTruck/TestBaseHw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/day16_homeWork_VyTruck/homeWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/ContactsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day17_extent_reports/ExtentDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day17_extent_reports/NegativeLoginTestWithReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day18_review/verifyContactInfoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/CreateCalendarEventsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/CreateCalendarEventsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/LoginPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day16_pom/RepeatOptionsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day16_pom/RepeatOptionsTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/CreateCalendarEventsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/CreateCalendarEventsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/LoginPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day16_pom/RepeatOptionsTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day16_pom/RepeatOptionsTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +61,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1a2yXTlc60xCVHZGbx0ABLlJwXY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -65,23 +79,43 @@
     <property name="settings.editor.selected.configurable" value="inlay.hints.JAVA" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cybertek.day16_homeWork_VyTruck" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main" />
       <recent name="$PROJECT_DIR$/src/test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.RepeatOptionsTests.test1">
-    <configuration name="LoginTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.verifyContactInfoTest.contactDetailsTest">
+    <configuration name="NegativeLoginTestWithReport" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EU2TestNGProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day14_properties_driver_test.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day17_extent_reports.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day14_properties_driver_test" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day14_properties_driver_test.LoginTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day17_extent_reports" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day17_extent_reports.NegativeLoginTestWithReport" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NegativeLoginTestWithReport.wrongPasswordTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EU2TestNGProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day17_extent_reports.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day17_extent_reports" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day17_extent_reports.NegativeLoginTestWithReport" />
+      <option name="METHOD_NAME" value="wrongPasswordTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -89,17 +123,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PageSubtitleTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="NegativeLoginTestWithReport.wrongUsernameTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EU2TestNGProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day16_pom.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day17_extent_reports.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day16_pom" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day16_pom.PageSubtitleTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day17_extent_reports" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day17_extent_reports.NegativeLoginTestWithReport" />
+      <option name="METHOD_NAME" value="wrongUsernameTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -107,17 +141,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PositiveLoginTest.loginAsDriver" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="homeWork.test3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EU2TestNGProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day16_pom.*" />
+          <option name="PATTERN" value="com.cybertek.day16_homeWork_VyTruck.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day16_pom" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day16_pom.PositiveLoginTest" />
-      <option name="METHOD_NAME" value="loginAsDriver" />
+      <option name="PACKAGE_NAME" value="com.cybertek.day16_homeWork_VyTruck" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.day16_homeWork_VyTruck.homeWork" />
+      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -125,35 +159,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PositiveLoginTest.loginAsStoreManager" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="verifyContactInfoTest.contactDetailsTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EU2TestNGProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day16_pom.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day18_review.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day16_pom" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day16_pom.PositiveLoginTest" />
-      <option name="METHOD_NAME" value="loginAsStoreManager" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RepeatOptionsTests.test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="EU2TestNGProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day16_pom.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day16_pom" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day16_pom.RepeatOptionsTests" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day18_review" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day18_review.verifyContactInfoTest" />
+      <option name="METHOD_NAME" value="contactDetailsTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -163,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.RepeatOptionsTests.test1" />
-        <item itemvalue="TestNG.PageSubtitleTest.test1" />
-        <item itemvalue="TestNG.LoginTest.test1" />
-        <item itemvalue="TestNG.PositiveLoginTest.loginAsStoreManager" />
-        <item itemvalue="TestNG.PositiveLoginTest.loginAsDriver" />
+        <item itemvalue="TestNG.verifyContactInfoTest.contactDetailsTest" />
+        <item itemvalue="TestNG.NegativeLoginTestWithReport.wrongUsernameTest" />
+        <item itemvalue="TestNG.NegativeLoginTestWithReport" />
+        <item itemvalue="TestNG.NegativeLoginTestWithReport.wrongPasswordTest" />
+        <item itemvalue="TestNG.homeWork.test3" />
       </list>
     </recent_temporary>
   </component>
@@ -196,12 +212,19 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="1041" y="212" key="#Project_Structure" timestamp="1588688118393">
       <screen x="0" y="23" width="1920" height="997" />
     </state>
     <state x="1041" y="205" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1588554557554" />
     <state x="1041" y="212" key="#Project_Structure/0.23.1920.997@0.23.1920.997" timestamp="1588688118393" />
+    <state x="1157" y="313" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1590074960015">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1157" y="313" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1590074960015" />
     <state x="1062" y="115" width="758" height="814" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1588281113564">
       <screen x="0" y="23" width="1920" height="997" />
     </state>
@@ -226,10 +249,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1228" y="302" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1588554346021" />
-    <state width="1146" height="346" key="GridCell.Tab.0.bottom" timestamp="1589904622518">
+    <state width="1081" height="244" key="GridCell.Tab.0.bottom" timestamp="1590079101013">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1146" height="346" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1589904622518" />
+    <state width="1081" height="244" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1590079101013" />
     <state width="1438" height="192" key="GridCell.Tab.0.bottom/0.23.1920.1001@0.23.1920.1001" timestamp="1588281547590" />
     <state width="1878" height="419" key="GridCell.Tab.0.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1588255857585" />
     <state width="953" height="347" key="GridCell.Tab.0.bottom/0.23.1920.983@0.23.1920.983" timestamp="1586452758021" />
@@ -238,15 +261,15 @@
     <state width="1878" height="369" key="GridCell.Tab.0.bottom/0.23.1920.988@0.23.1920.988" timestamp="1588038519811" />
     <state width="1438" height="312" key="GridCell.Tab.0.bottom/0.23.1920.990@0.23.1920.990" timestamp="1588293112731" />
     <state width="1878" height="369" key="GridCell.Tab.0.bottom/0.23.1920.991@0.23.1920.991" timestamp="1588119181458" />
-    <state width="867" height="305" key="GridCell.Tab.0.bottom/0.23.1920.992@0.23.1920.992" timestamp="1589758204395" />
-    <state width="916" height="314" key="GridCell.Tab.0.bottom/0.23.1920.993@0.23.1920.993" timestamp="1589893271489" />
+    <state width="1746" height="346" key="GridCell.Tab.0.bottom/0.23.1920.992@0.23.1920.992" timestamp="1589983310946" />
+    <state width="1746" height="346" key="GridCell.Tab.0.bottom/0.23.1920.993@0.23.1920.993" timestamp="1589929040584" />
     <state width="1878" height="330" key="GridCell.Tab.0.bottom/0.23.1920.994@0.23.1920.994" timestamp="1588167818876" />
-    <state width="1181" height="232" key="GridCell.Tab.0.bottom/0.23.1920.996@0.23.1920.996" timestamp="1588626386539" />
+    <state width="1137" height="232" key="GridCell.Tab.0.bottom/0.23.1920.996@0.23.1920.996" timestamp="1590057999062" />
     <state width="1181" height="232" key="GridCell.Tab.0.bottom/0.23.1920.997@0.23.1920.997" timestamp="1588692686943" />
-    <state width="1146" height="346" key="GridCell.Tab.0.center" timestamp="1589904622516">
+    <state width="1081" height="244" key="GridCell.Tab.0.center" timestamp="1590079101011">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1146" height="346" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1589904622516" />
+    <state width="1081" height="244" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1590079101011" />
     <state width="1438" height="192" key="GridCell.Tab.0.center/0.23.1920.1001@0.23.1920.1001" timestamp="1588281547589" />
     <state width="1878" height="419" key="GridCell.Tab.0.center/0.23.1920.1002@0.23.1920.1002" timestamp="1588255857584" />
     <state width="953" height="347" key="GridCell.Tab.0.center/0.23.1920.983@0.23.1920.983" timestamp="1586452758020" />
@@ -255,15 +278,15 @@
     <state width="1878" height="369" key="GridCell.Tab.0.center/0.23.1920.988@0.23.1920.988" timestamp="1588038519810" />
     <state width="1438" height="312" key="GridCell.Tab.0.center/0.23.1920.990@0.23.1920.990" timestamp="1588293112730" />
     <state width="1878" height="369" key="GridCell.Tab.0.center/0.23.1920.991@0.23.1920.991" timestamp="1588119181457" />
-    <state width="867" height="305" key="GridCell.Tab.0.center/0.23.1920.992@0.23.1920.992" timestamp="1589758204394" />
-    <state width="916" height="314" key="GridCell.Tab.0.center/0.23.1920.993@0.23.1920.993" timestamp="1589893271488" />
+    <state width="1746" height="346" key="GridCell.Tab.0.center/0.23.1920.992@0.23.1920.992" timestamp="1589983310945" />
+    <state width="1746" height="346" key="GridCell.Tab.0.center/0.23.1920.993@0.23.1920.993" timestamp="1589929040583" />
     <state width="1878" height="330" key="GridCell.Tab.0.center/0.23.1920.994@0.23.1920.994" timestamp="1588167818876" />
-    <state width="1181" height="232" key="GridCell.Tab.0.center/0.23.1920.996@0.23.1920.996" timestamp="1588626386538" />
+    <state width="1137" height="232" key="GridCell.Tab.0.center/0.23.1920.996@0.23.1920.996" timestamp="1590057999061" />
     <state width="1181" height="232" key="GridCell.Tab.0.center/0.23.1920.997@0.23.1920.997" timestamp="1588692686942" />
-    <state width="1146" height="346" key="GridCell.Tab.0.left" timestamp="1589904622515">
+    <state width="1081" height="244" key="GridCell.Tab.0.left" timestamp="1590079101011">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1146" height="346" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1589904622515" />
+    <state width="1081" height="244" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1590079101011" />
     <state width="1438" height="192" key="GridCell.Tab.0.left/0.23.1920.1001@0.23.1920.1001" timestamp="1588281547589" />
     <state width="1878" height="419" key="GridCell.Tab.0.left/0.23.1920.1002@0.23.1920.1002" timestamp="1588255857584" />
     <state width="953" height="347" key="GridCell.Tab.0.left/0.23.1920.983@0.23.1920.983" timestamp="1586452758020" />
@@ -272,15 +295,15 @@
     <state width="1878" height="369" key="GridCell.Tab.0.left/0.23.1920.988@0.23.1920.988" timestamp="1588038519810" />
     <state width="1438" height="312" key="GridCell.Tab.0.left/0.23.1920.990@0.23.1920.990" timestamp="1588293112730" />
     <state width="1878" height="369" key="GridCell.Tab.0.left/0.23.1920.991@0.23.1920.991" timestamp="1588119181457" />
-    <state width="867" height="305" key="GridCell.Tab.0.left/0.23.1920.992@0.23.1920.992" timestamp="1589758204394" />
-    <state width="916" height="314" key="GridCell.Tab.0.left/0.23.1920.993@0.23.1920.993" timestamp="1589893271488" />
+    <state width="1746" height="346" key="GridCell.Tab.0.left/0.23.1920.992@0.23.1920.992" timestamp="1589983310945" />
+    <state width="1746" height="346" key="GridCell.Tab.0.left/0.23.1920.993@0.23.1920.993" timestamp="1589929040583" />
     <state width="1878" height="330" key="GridCell.Tab.0.left/0.23.1920.994@0.23.1920.994" timestamp="1588167818875" />
-    <state width="1181" height="232" key="GridCell.Tab.0.left/0.23.1920.996@0.23.1920.996" timestamp="1588626386537" />
+    <state width="1137" height="232" key="GridCell.Tab.0.left/0.23.1920.996@0.23.1920.996" timestamp="1590057999061" />
     <state width="1181" height="232" key="GridCell.Tab.0.left/0.23.1920.997@0.23.1920.997" timestamp="1588692686941" />
-    <state width="1146" height="346" key="GridCell.Tab.0.right" timestamp="1589904622517">
+    <state width="1081" height="244" key="GridCell.Tab.0.right" timestamp="1590079101012">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1146" height="346" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1589904622517" />
+    <state width="1081" height="244" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1590079101012" />
     <state width="1438" height="192" key="GridCell.Tab.0.right/0.23.1920.1001@0.23.1920.1001" timestamp="1588281547590" />
     <state width="1878" height="419" key="GridCell.Tab.0.right/0.23.1920.1002@0.23.1920.1002" timestamp="1588255857585" />
     <state width="953" height="347" key="GridCell.Tab.0.right/0.23.1920.983@0.23.1920.983" timestamp="1586452758020" />
@@ -289,39 +312,39 @@
     <state width="1878" height="369" key="GridCell.Tab.0.right/0.23.1920.988@0.23.1920.988" timestamp="1588038519811" />
     <state width="1438" height="312" key="GridCell.Tab.0.right/0.23.1920.990@0.23.1920.990" timestamp="1588293112730" />
     <state width="1878" height="369" key="GridCell.Tab.0.right/0.23.1920.991@0.23.1920.991" timestamp="1588119181457" />
-    <state width="867" height="305" key="GridCell.Tab.0.right/0.23.1920.992@0.23.1920.992" timestamp="1589758204395" />
-    <state width="916" height="314" key="GridCell.Tab.0.right/0.23.1920.993@0.23.1920.993" timestamp="1589893271489" />
+    <state width="1746" height="346" key="GridCell.Tab.0.right/0.23.1920.992@0.23.1920.992" timestamp="1589983310946" />
+    <state width="1746" height="346" key="GridCell.Tab.0.right/0.23.1920.993@0.23.1920.993" timestamp="1589929040583" />
     <state width="1878" height="330" key="GridCell.Tab.0.right/0.23.1920.994@0.23.1920.994" timestamp="1588167818876" />
-    <state width="1181" height="232" key="GridCell.Tab.0.right/0.23.1920.996@0.23.1920.996" timestamp="1588626386538" />
+    <state width="1137" height="232" key="GridCell.Tab.0.right/0.23.1920.996@0.23.1920.996" timestamp="1590057999062" />
     <state width="1181" height="232" key="GridCell.Tab.0.right/0.23.1920.997@0.23.1920.997" timestamp="1588692686942" />
-    <state width="993" height="376" key="GridCell.Tab.1.bottom" timestamp="1589902491920">
+    <state width="1091" height="376" key="GridCell.Tab.1.bottom" timestamp="1589907718952">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="993" height="376" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1589902491920" />
+    <state width="1091" height="376" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1589907718952" />
     <state width="1438" height="312" key="GridCell.Tab.1.bottom/0.23.1920.1001@0.23.1920.1001" timestamp="1588279033064" />
     <state width="1438" height="312" key="GridCell.Tab.1.bottom/0.23.1920.990@0.23.1920.990" timestamp="1588293112732" />
     <state width="1878" height="330" key="GridCell.Tab.1.bottom/0.23.1920.994@0.23.1920.994" timestamp="1588167818878" />
     <state width="1878" height="330" key="GridCell.Tab.1.bottom/0.23.1920.996@0.23.1920.996" timestamp="1588120180930" />
-    <state width="993" height="376" key="GridCell.Tab.1.center" timestamp="1589902491919">
+    <state width="1091" height="376" key="GridCell.Tab.1.center" timestamp="1589907718951">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="993" height="376" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1589902491919" />
+    <state width="1091" height="376" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1589907718951" />
     <state width="1438" height="312" key="GridCell.Tab.1.center/0.23.1920.1001@0.23.1920.1001" timestamp="1588279033063" />
     <state width="1438" height="312" key="GridCell.Tab.1.center/0.23.1920.990@0.23.1920.990" timestamp="1588293112732" />
     <state width="1878" height="330" key="GridCell.Tab.1.center/0.23.1920.994@0.23.1920.994" timestamp="1588167818877" />
     <state width="1878" height="330" key="GridCell.Tab.1.center/0.23.1920.996@0.23.1920.996" timestamp="1588120180927" />
-    <state width="993" height="376" key="GridCell.Tab.1.left" timestamp="1589902491918">
+    <state width="1091" height="376" key="GridCell.Tab.1.left" timestamp="1589907718948">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="993" height="376" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1589902491918" />
+    <state width="1091" height="376" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1589907718948" />
     <state width="1438" height="312" key="GridCell.Tab.1.left/0.23.1920.1001@0.23.1920.1001" timestamp="1588279033063" />
     <state width="1438" height="312" key="GridCell.Tab.1.left/0.23.1920.990@0.23.1920.990" timestamp="1588293112731" />
     <state width="1878" height="330" key="GridCell.Tab.1.left/0.23.1920.994@0.23.1920.994" timestamp="1588167818877" />
     <state width="1878" height="330" key="GridCell.Tab.1.left/0.23.1920.996@0.23.1920.996" timestamp="1588120180926" />
-    <state width="993" height="376" key="GridCell.Tab.1.right" timestamp="1589902491919">
+    <state width="1091" height="376" key="GridCell.Tab.1.right" timestamp="1589907718951">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="993" height="376" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1589902491919" />
+    <state width="1091" height="376" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1589907718951" />
     <state width="1438" height="312" key="GridCell.Tab.1.right/0.23.1920.1001@0.23.1920.1001" timestamp="1588279033063" />
     <state width="1438" height="312" key="GridCell.Tab.1.right/0.23.1920.990@0.23.1920.990" timestamp="1588293112732" />
     <state width="1878" height="330" key="GridCell.Tab.1.right/0.23.1920.994@0.23.1920.994" timestamp="1588167818877" />
@@ -378,5 +401,16 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1106" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1589828187547" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/day16_pom/PageSubtitleTest.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
