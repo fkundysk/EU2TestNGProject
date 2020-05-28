@@ -40,7 +40,7 @@ public class PageSubtitleTest extends TestBase {
         dashboardPage.navigateToModule("Activities", "Calendar Events");
 
         CalendarEventsPage calendarEventsPage = new CalendarEventsPage();
-        BrowserUtils.waitFor(3);
+        BrowserUtils.waitFor(5);
 
         Assert.assertEquals(calendarEventsPage.getPageSubTitle(), "Calendar Events", "verify subtitle");
 

@@ -37,7 +37,7 @@ public class RepeatOptionsTests extends TestBase {
         dashboardPage.navigateToModule("Activities", "Calendar Events");
 
         CalendarEventsPage calendarEventsPage = new CalendarEventsPage();
-        //BrowserUtils.waitFor(3);
+        BrowserUtils.waitFor(3);
         calendarEventsPage.waitUntilLoaderScreenDisappear();
         calendarEventsPage.createCalendarEvent.click();
 
@@ -66,13 +66,13 @@ public class RepeatOptionsTests extends TestBase {
         new DashboardPage().navigateToModule("Activities", "Calendar Events");
 
         CalendarEventsPage calendarEventsPage = new CalendarEventsPage();
-        BrowserUtils.waitFor(3);
+        BrowserUtils.waitFor(5);
         calendarEventsPage.waitUntilLoaderScreenDisappear();
         calendarEventsPage.createCalendarEvent.click();
 
         CreateCalendarEventsPage createCalendarEventsPage = new CreateCalendarEventsPage();
         createCalendarEventsPage.repeat.click();
-        BrowserUtils.waitFor(3);
+        BrowserUtils.waitFor(5);
 
         Select repeatDropdown = createCalendarEventsPage.repeatOptionsList();
 

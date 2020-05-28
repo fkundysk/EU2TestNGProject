@@ -10,10 +10,10 @@ import org.openqa.selenium.support.ui.Select;
 import java.util.List;
 
 public class CalendarEventsPageHw extends BasePage {
-    public CalendarEventsPageHw() {
-
-        PageFactory.initElements(Driver.get(), this);//label[@class='control-label']/..//button
-    }
+//    public CalendarEventsPageHw() {
+//
+//        PageFactory.initElements(Driver.get(), this);//label[@class='control-label']/..//button
+//    }
 
     @FindBy(css = "[title='Create Calendar event']")
     public WebElement createCalendarEvent;
@@ -47,6 +47,12 @@ public class CalendarEventsPageHw extends BasePage {
 
     @FindBy(xpath = "(//a[.='All'])[2]")
     public WebElement allSelectButton;
+
+    @FindBy(xpath = "//tr[starts-with(@class,'grid-row')]")
+    public List<WebElement> tableCheckBox;
+
+    @FindBy(xpath = "//td[contains (text(),'Testers')]/.." )
+    public WebElement selectEvent;
 
 //    public Select checkBoxHeadOptionsList(){
 //

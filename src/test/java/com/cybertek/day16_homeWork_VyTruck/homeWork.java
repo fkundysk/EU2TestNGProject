@@ -103,7 +103,6 @@ public class homeWork extends TestBaseHw {
 
         int totalPageNumber = Integer.parseInt(arr[1]);
 
-
         System.out.println("totalPage = " + totalPage);
 
           int actualTotalRecordNumber=0;
@@ -131,82 +130,131 @@ public class homeWork extends TestBaseHw {
     @Test
     public void test5() throws InterruptedException {
 
-            new LoginPageHw().loginAsStoreManager();
+        new LoginPageHw().loginAsStoreManager();
 
+        BrowserUtils.waitFor(3);
+        DashBoardPageHw dashBoard = new DashBoardPageHw();
+
+        dashBoard.navigateToModule("Activities", "Calendar Events");
+
+        BrowserUtils.waitFor(3);
+
+        CalendarEventsPageHw calendarEventsPage = new CalendarEventsPageHw();
+
+        calendarEventsPage.checkBoxHead.click();
+        BrowserUtils.waitFor(3);
+        calendarEventsPage.allSelectButton.click();
+        BrowserUtils.waitFor(3);
+
+
+        int countSelected=0;
+        int currentPage= 1;
+        String totalPage = calendarEventsPage.totalPageNumber.getText();
+
+        String [] arr = totalPage.split(" ");
+
+        System.out.println(Arrays.toString(arr));
+
+        int totalPageNumber = 1;//Integer.parseInt(arr[1]);
+
+        System.out.println("totalPageNumber = " + totalPage);
+
+        int actualTotalRecordNumber=0;
+
+        while (currentPage<=totalPageNumber){
             BrowserUtils.waitFor(3);
-            DashBoardPageHw dashBoard = new DashBoardPageHw();
-
-            dashBoard.navigateToModule("Activities", "Calendar Events");
-
+            actualTotalRecordNumber = actualTotalRecordNumber+calendarEventsPage.tableContains.size();
+            calendarEventsPage.nextPageButton.click();
             BrowserUtils.waitFor(3);
-
-            CalendarEventsPageHw calendarEventsPage = new CalendarEventsPageHw();
-
-            calendarEventsPage.checkBoxHead.click();
-            BrowserUtils.waitFor(3);
-            calendarEventsPage.allSelectButton.click();
-            BrowserUtils.waitFor(3);
+            currentPage++;
 
 
-//          Assert.assertTrue(calendarEventsPage.checkBoxHead.isSelected());
-//          Thread.sleep(10000);
-//          BrowserUtils.waitFor(3);
-//
-//          Select checkDropdown = calendarEventsPage.checkBoxHeadOptionsList();
-//
-//            List<String> expectedList = Arrays.asList("All", "All Visible", "None");
-//            System.out.println("expectedList.size() = " + expectedList.size());
+            for (int i=0; i<calendarEventsPage.tableCheckBox.size();i++) {
+                String actualCheckBox = calendarEventsPage.tableCheckBox.get(i).getAttribute("class");
+               // System.out.println("actualCheckBox = " + actualCheckBox);
+                String expectedCheckBox = "grid-row row-selected";
+                if(actualCheckBox.equals(expectedCheckBox)){
+                    countSelected++;
+                }
 
-//            List <WebElement> actualOptions = checkDropdown.getOptions();
-//
-//              List<String> actualList = new ArrayList<>();
-//        for (WebElement option : actualOptions) {
-//            actualList.add(option.getText());
-//        }
+            }
 
-//        List<String> actualList2 =BrowserUtils.getElementsText(actualOptions);
-//
-//        Assert.assertEquals(actualList2,expectedList,"Verify dropdown options same");
+        }
+        System.out.println("actualTotalRecordNumber = " + actualTotalRecordNumber);
+        System.out.println("countSelected = " + countSelected);
+    }
 
-//            int currentPage= 1;
+    @Test
+    public void test6() throws InterruptedException {
+
+        new LoginPageHw().loginAsStoreManager();
+
+        BrowserUtils.waitFor(3);
+        DashBoardPageHw dashBoard = new DashBoardPageHw();
+
+        dashBoard.navigateToModule("Activities", "Calendar Events");
+
+        BrowserUtils.waitFor(3);
+
+        new CalendarEventsPageHw().selectEvent.click();
+        BrowserUtils.waitFor(3);
+
+        CalendarEventsInformationPage calendarEventsInformationPage = new CalendarEventsInformationPage();
+
+        String actualPage = calendarEventsInformationPage.firstRow.getText();
+        System.out.println("actualPage = " + actualPage);
+        String expectedPage1 = "Title";
+        String expectedPage2 = "Testers";
+
+       // Assert.assertEquals(actualPage,expectedPage,"Verify page is Testers Meeting page");
+
+        //System.out.println("calendarEventsInformationPage.firstRow.getText() = " + calendarEventsInformationPage.firstRow.getText());
+        if(actualPage.contains(expectedPage1) && (actualPage.contains(expectedPage1))){
+            System.out.println("actualPage = " + actualPage);
+        };
+
+
+//        int countSelected=0;
+//        int currentPage= 1;
+//        String totalPage = calendarEventsPage.totalPageNumber.getText();
 //
-//            String totalPage = calendarEventsPage.totalPageNumber.getText();
+//        String [] arr = totalPage.split(" ");
 //
-//            String [] arr = totalPage.split(" ");
+//        System.out.println(Arrays.toString(arr));
 //
-//            System.out.println(Arrays.toString(arr));
+//        int totalPageNumber = 1;//Integer.parseInt(arr[1]);
 //
-//            int totalPageNumber = Integer.parseInt(arr[1]);
+//        System.out.println("totalPageNumber = " + totalPage);
+//
+//        int actualTotalRecordNumber=0;
+//
+//        while (currentPage<=totalPageNumber){
+//            BrowserUtils.waitFor(3);
+//            actualTotalRecordNumber = actualTotalRecordNumber+calendarEventsPage.tableContains.size();
+//            calendarEventsPage.nextPageButton.click();
+//            BrowserUtils.waitFor(3);
+//            currentPage++;
 //
 //
-//            System.out.println("totalPage = " + totalPage);
-//
-//            int actualTotalRecordNumber=0;
-//
-//            while (currentPage<=totalPageNumber){
-//                BrowserUtils.waitFor(3);
-//                actualTotalRecordNumber = actualTotalRecordNumber+calendarEventsPage.tableContains.size();
-//                calendarEventsPage.nextPageButton.click();
-//                BrowserUtils.waitFor(3);
-//                currentPage++;
+//            for (int i=0; i<calendarEventsPage.tableCheckBox.size();i++) {
+//                String actualCheckBox = calendarEventsPage.tableCheckBox.get(i).getAttribute("class");
+//                // System.out.println("actualCheckBox = " + actualCheckBox);
+//                String expectedCheckBox = "grid-row row-selected";
+//                if(actualCheckBox.equals(expectedCheckBox)){
+//                    countSelected++;
+//                }
 //
 //            }
-//            System.out.println(actualTotalRecordNumber);
-//            String totalRecord = calendarEventsPage.totalContains.getText();
 //
-//            String [] arr1 = totalRecord.split(" ");
-//
-//            System.out.println(Arrays.toString(arr1));
-//
-//            int expectedTotalRecordNumber = Integer.parseInt(arr1[2]);
-//
-//            Assert.assertEquals(actualTotalRecordNumber,expectedTotalRecordNumber,"Verify Total Record Number");
-
-
-
-
-    }
+//        }
+//        System.out.println("actualTotalRecordNumber = " + actualTotalRecordNumber);
+//        System.out.println("countSelected = " + countSelected);
+  }
 
 
 
 }
+
+
+
+
