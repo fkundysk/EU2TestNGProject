@@ -1,7 +1,6 @@
-package com.cybertek.day16_homeWork_VyTruck;
+package com.cybertek.day16_homeWork_VyTrack;
 
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindAll;
 import org.openqa.selenium.support.FindBy;
 
 public class CalendarEventsInformationPage extends BasePageHw {

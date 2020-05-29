@@ -1,17 +1,10 @@
-package com.cybertek.day16_homeWork_VyTruck;
+package com.cybertek.day16_homeWork_VyTrack;
 
-import com.cybertek.pages.CalendarEventsPage;
-import com.cybertek.tests.TestBase;
 import com.cybertek.utilities.BrowserUtils;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class homeWork extends TestBaseHw {
 
