@@ -25,8 +25,8 @@ public class ImplicitWaitExample {
 
     @AfterMethod
     public void afterMethod() throws InterruptedException {
-        //Thread.sleep(2000);
-        driver.quit();
+        Thread.sleep(2000);
+       // driver.quit();
     }
 
     @Test

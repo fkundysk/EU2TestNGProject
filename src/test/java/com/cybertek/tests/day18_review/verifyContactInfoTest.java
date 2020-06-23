@@ -9,6 +9,7 @@ import com.cybertek.utilities.BrowserUtils;
 import com.cybertek.utilities.ConfigurationReader;
 import org.testng.Assert;
 import org.testng.annotations.Test;
+import org.testng.asserts.SoftAssert;
 
 public class verifyContactInfoTest extends TestBase {
 
@@ -21,7 +22,7 @@ public class verifyContactInfoTest extends TestBase {
      * verify that full name is Mariam Brackstone
      * verify that email is mbrackstone9@example.com
      * verify that phone number is +18982323434
-     */
+     **/
 
     @Test
     public void contactDetailsTest() {

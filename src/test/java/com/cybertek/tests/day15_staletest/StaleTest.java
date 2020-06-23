@@ -1,11 +1,13 @@
 package com.cybertek.tests.day15_staletest;
 
 import com.cybertek.tests.TestBase;
+import com.google.common.base.Verify;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
+import org.testng.asserts.SoftAssert;
 
 public class StaleTest extends TestBase {
 
@@ -28,7 +30,6 @@ public class StaleTest extends TestBase {
         results = driver.findElement(By.id("result-stats"));
 
         Assert.assertTrue(results.isDisplayed());
-
 
     }
 

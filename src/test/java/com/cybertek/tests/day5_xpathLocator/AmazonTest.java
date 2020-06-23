@@ -34,7 +34,7 @@ public class AmazonTest {
 
         System.out.println("result.getText() = " + result.getText());
 
-
     }
+
 
 }

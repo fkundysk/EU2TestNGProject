@@ -1,7 +1,9 @@
 package com.cybertek.tests.day7_testng;
 
 import org.testng.Assert;
+import org.testng.annotations.Ignore;
 import org.testng.annotations.Test;
+import org.testng.asserts.SoftAssert;
 
 public class TestNGAssertionsDemo {
 
@@ -17,11 +19,14 @@ public class TestNGAssertionsDemo {
         //driver.quit
 
     }
-
+   // @Ignore
     @Test
     public void test2(){
         System.out.println("Second Test Case");
-        Assert.assertEquals("url","url");
+        Assert.assertEquals("url","urn");
+//        SoftAssert soft = new SoftAssert();
+//        soft.assertEquals("url", "urn");
+        System.out.println("after test assert");
 
     }
 
