@@ -20,69 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55e433fb-8099-4f09-b250-bab845a48ded" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/Deneme1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/StringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/contactDetailsTest20200623104308.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/trySmth/HashMapWorkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/trySmth/HashMapWorks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/trySmth/forTries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/trySmth/mapTry.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/LocatorHomework/TestCase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/LocatorHomework/TestCase1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/LocatorHomework/TestCase2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/LocatorHomework/TestCase2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/day16_homeWork_VyTrack/BasePageHw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/day16_homeWork_VyTrack/BasePageHw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/day16_homeWork_VyTrack/CalendarEventsInformationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/day16_homeWork_VyTrack/CalendarEventsInformationPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/day16_homeWork_VyTrack/CalendarEventsPageHw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/day16_homeWork_VyTrack/CalendarEventsPageHw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/day16_homeWork_VyTrack/CreateCalendarEventsPageHw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/day16_homeWork_VyTrack/CreateCalendarEventsPageHw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/day16_homeWork_VyTrack/DashBoardPageHw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/day16_homeWork_VyTrack/DashBoardPageHw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/day16_homeWork_VyTrack/LoginPageHw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/day16_homeWork_VyTrack/LoginPageHw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/day16_homeWork_VyTrack/TestBaseHw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/day16_homeWork_VyTrack/TestBaseHw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/day16_homeWork_VyTrack/VyTrack/CreateCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/day16_homeWork_VyTrack/VyTrack/CreateCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/day16_homeWork_VyTrack/homeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/day16_homeWork_VyTrack/homeWork.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/homeWork/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/homeWork/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/homeWork/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/homeWork/test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/homeWork/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/homeWork/test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/homeWork/test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/homeWork/test4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/homeWork/test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/homeWork/test5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/homeWork/test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/homeWork/test6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/homeWork/test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/homeWork/test7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/homeWork/test8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/homeWork/test8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/homeWork/test9to12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/homeWork/test9to12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/CreateCalendarEventsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/CreateCalendarEventsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day10_sync/ExplicitWaitExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day10_sync/ExplicitWaitExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day10_sync/ImplicitWaitExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day10_sync/ImplicitWaitExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day15_staletest/StaleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day15_staletest/StaleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day16_pom/RepeatOptionsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day16_pom/RepeatOptionsTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day18_review/verifyContactInfoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day18_review/verifyContactInfoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day5_xpathLocator/AmazonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day5_xpathLocator/AmazonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day7_testng/TestNGAssertionsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day7_testng/TestNGAssertionsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/LocatorHomework/TestCase1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/LocatorHomework/TestCase2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/VyTrack/CreateCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/day16_homeWork_VyTruck/BasePageHw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/day16_homeWork_VyTruck/CalendarEventsInformationPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/day16_homeWork_VyTruck/CalendarEventsPageHw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/day16_homeWork_VyTruck/CreateCalendarEventsPageHw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/day16_homeWork_VyTruck/DashBoardPageHw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/day16_homeWork_VyTruck/LoginPageHw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/day16_homeWork_VyTruck/TestBaseHw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/day16_homeWork_VyTruck/homeWork.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/homeWork/test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/homeWork/test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/homeWork/test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/homeWork/test4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/homeWork/test5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/homeWork/test6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/homeWork/test7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/homeWork/test8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/homeWork/test9to12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/CreateCalendarEventsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/CreateCalendarEventsPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day10_sync/ExplicitWaitExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day10_sync/ExplicitWaitExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day10_sync/ImplicitWaitExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day10_sync/ImplicitWaitExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day15_staletest/StaleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day15_staletest/StaleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day16_pom/RepeatOptionsTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day16_pom/RepeatOptionsTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day18_review/verifyContactInfoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day18_review/verifyContactInfoTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day19_ddf/DDFLoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day19_ddf/DDFLoginTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day5_xpathLocator/AmazonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day5_xpathLocator/AmazonTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_testng/TestNGAssertionsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_testng/TestNGAssertionsDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day10_sync/ThreadSleepExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day10_sync/ThreadSleepExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day9_popups_tabs_frames/MultipleWindows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day9_popups_tabs_frames/MultipleWindows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/works/Deneme1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/trySmth/Deneme1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/works/StringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/trySmth/StringBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_webdriver_basics/GetTitleAndUrl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_webdriver_basics/GetTitleAndUrl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/Deneme1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/StringBuilder.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,13 +88,26 @@
       <recent name="$PROJECT_DIR$/src/test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Deneme1">
+  <component name="RunManager" selected="TestNG.RadioButtonTest.RadioButtonTest1">
     <configuration name="Deneme1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.works.Deneme1" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.works.trySmth.Deneme1" />
       <module name="EU2TestNGProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.works.*" />
+          <option name="PATTERN" value="com.cybertek.works.trySmth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapWorkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.works.trySmth.HashMapWorkTest" />
+      <module name="EU2TestNGProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.works.trySmth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +116,11 @@
       </method>
     </configuration>
     <configuration name="StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.works.StringBuilder" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.works.trySmth.StringBuilder" />
       <module name="EU2TestNGProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.works.*" />
+          <option name="PATTERN" value="com.cybertek.works.trySmth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,53 +128,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNGAssertionsDemo.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="mapTry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.works.trySmth.mapTry" />
       <module name="EU2TestNGProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day7_testng.*" />
+          <option name="PATTERN" value="com.cybertek.works.trySmth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day7_testng" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day7_testng.TestNGAssertionsDemo" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homeWork.test5" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="RadioButtonTest.RadioButtonTest1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EU2TestNGProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.works.day16_homeWork_VyTrack.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day7_types_of_elements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.works.day16_homeWork_VyTrack" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.works.day16_homeWork_VyTrack.homeWork" />
-      <option name="METHOD_NAME" value="test5" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="verifyContactInfoTest.contactDetailsTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="EU2TestNGProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day18_review.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day18_review" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day18_review.verifyContactInfoTest" />
-      <option name="METHOD_NAME" value="contactDetailsTest" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day7_types_of_elements" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day7_types_of_elements.RadioButtonTest" />
+      <option name="METHOD_NAME" value="RadioButtonTest1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -222,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.RadioButtonTest.RadioButtonTest1" />
+        <item itemvalue="Application.mapTry" />
+        <item itemvalue="Application.HashMapWorkTest" />
         <item itemvalue="Application.Deneme1" />
         <item itemvalue="Application.StringBuilder" />
-        <item itemvalue="TestNG.verifyContactInfoTest.contactDetailsTest" />
-        <item itemvalue="TestNG.TestNGAssertionsDemo.test2" />
-        <item itemvalue="TestNG.homeWork.test5" />
       </list>
     </recent_temporary>
   </component>
@@ -300,10 +239,10 @@
     </state>
     <state x="1228" y="302" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1588554346021" />
     <state x="1228" y="301" key="FileChooserDialogImpl/0.23.1920.994@0.23.1920.994" timestamp="1590574346084" />
-    <state width="1878" height="286" key="GridCell.Tab.0.bottom" timestamp="1592946897626">
-      <screen x="0" y="23" width="1920" height="994" />
+    <state width="1878" height="251" key="GridCell.Tab.0.bottom" timestamp="1593017878116">
+      <screen x="0" y="23" width="1920" height="993" />
     </state>
-    <state width="927" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1592941784774" />
+    <state width="1878" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593016932655" />
     <state width="1438" height="192" key="GridCell.Tab.0.bottom/0.23.1920.1001@0.23.1920.1001" timestamp="1588281547590" />
     <state width="1878" height="419" key="GridCell.Tab.0.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1588255857585" />
     <state width="953" height="347" key="GridCell.Tab.0.bottom/0.23.1920.983@0.23.1920.983" timestamp="1586452758021" />
@@ -312,15 +251,15 @@
     <state width="1878" height="369" key="GridCell.Tab.0.bottom/0.23.1920.988@0.23.1920.988" timestamp="1588038519811" />
     <state width="1438" height="312" key="GridCell.Tab.0.bottom/0.23.1920.990@0.23.1920.990" timestamp="1588293112731" />
     <state width="1878" height="369" key="GridCell.Tab.0.bottom/0.23.1920.991@0.23.1920.991" timestamp="1588119181458" />
-    <state width="1878" height="286" key="GridCell.Tab.0.bottom/0.23.1920.992@0.23.1920.992" timestamp="1592941910320" />
-    <state width="1878" height="252" key="GridCell.Tab.0.bottom/0.23.1920.993@0.23.1920.993" timestamp="1591659035360" />
-    <state width="1878" height="286" key="GridCell.Tab.0.bottom/0.23.1920.994@0.23.1920.994" timestamp="1592946897626" />
+    <state width="1878" height="286" key="GridCell.Tab.0.bottom/0.23.1920.992@0.23.1920.992" timestamp="1593007564378" />
+    <state width="1878" height="251" key="GridCell.Tab.0.bottom/0.23.1920.993@0.23.1920.993" timestamp="1593017878116" />
+    <state width="1878" height="286" key="GridCell.Tab.0.bottom/0.23.1920.994@0.23.1920.994" timestamp="1592947515268" />
     <state width="1878" height="286" key="GridCell.Tab.0.bottom/0.23.1920.996@0.23.1920.996" timestamp="1592944806140" />
     <state width="1878" height="286" key="GridCell.Tab.0.bottom/0.23.1920.997@0.23.1920.997" timestamp="1592944853727" />
-    <state width="1878" height="286" key="GridCell.Tab.0.center" timestamp="1592946897625">
-      <screen x="0" y="23" width="1920" height="994" />
+    <state width="1878" height="251" key="GridCell.Tab.0.center" timestamp="1593017878115">
+      <screen x="0" y="23" width="1920" height="993" />
     </state>
-    <state width="927" height="286" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1592941784772" />
+    <state width="1878" height="286" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593016932653" />
     <state width="1438" height="192" key="GridCell.Tab.0.center/0.23.1920.1001@0.23.1920.1001" timestamp="1588281547589" />
     <state width="1878" height="419" key="GridCell.Tab.0.center/0.23.1920.1002@0.23.1920.1002" timestamp="1588255857584" />
     <state width="953" height="347" key="GridCell.Tab.0.center/0.23.1920.983@0.23.1920.983" timestamp="1586452758020" />
@@ -329,15 +268,15 @@
     <state width="1878" height="369" key="GridCell.Tab.0.center/0.23.1920.988@0.23.1920.988" timestamp="1588038519810" />
     <state width="1438" height="312" key="GridCell.Tab.0.center/0.23.1920.990@0.23.1920.990" timestamp="1588293112730" />
     <state width="1878" height="369" key="GridCell.Tab.0.center/0.23.1920.991@0.23.1920.991" timestamp="1588119181457" />
-    <state width="1878" height="286" key="GridCell.Tab.0.center/0.23.1920.992@0.23.1920.992" timestamp="1592941910318" />
-    <state width="1878" height="252" key="GridCell.Tab.0.center/0.23.1920.993@0.23.1920.993" timestamp="1591659035359" />
-    <state width="1878" height="286" key="GridCell.Tab.0.center/0.23.1920.994@0.23.1920.994" timestamp="1592946897625" />
+    <state width="1878" height="286" key="GridCell.Tab.0.center/0.23.1920.992@0.23.1920.992" timestamp="1593007564377" />
+    <state width="1878" height="251" key="GridCell.Tab.0.center/0.23.1920.993@0.23.1920.993" timestamp="1593017878115" />
+    <state width="1878" height="286" key="GridCell.Tab.0.center/0.23.1920.994@0.23.1920.994" timestamp="1592947515267" />
     <state width="1878" height="286" key="GridCell.Tab.0.center/0.23.1920.996@0.23.1920.996" timestamp="1592944806139" />
     <state width="1878" height="286" key="GridCell.Tab.0.center/0.23.1920.997@0.23.1920.997" timestamp="1592944853727" />
-    <state width="1878" height="286" key="GridCell.Tab.0.left" timestamp="1592946897624">
-      <screen x="0" y="23" width="1920" height="994" />
+    <state width="1878" height="251" key="GridCell.Tab.0.left" timestamp="1593017878114">
+      <screen x="0" y="23" width="1920" height="993" />
     </state>
-    <state width="927" height="286" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1592941784771" />
+    <state width="1878" height="286" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593016932653" />
     <state width="1438" height="192" key="GridCell.Tab.0.left/0.23.1920.1001@0.23.1920.1001" timestamp="1588281547589" />
     <state width="1878" height="419" key="GridCell.Tab.0.left/0.23.1920.1002@0.23.1920.1002" timestamp="1588255857584" />
     <state width="953" height="347" key="GridCell.Tab.0.left/0.23.1920.983@0.23.1920.983" timestamp="1586452758020" />
@@ -346,15 +285,15 @@
     <state width="1878" height="369" key="GridCell.Tab.0.left/0.23.1920.988@0.23.1920.988" timestamp="1588038519810" />
     <state width="1438" height="312" key="GridCell.Tab.0.left/0.23.1920.990@0.23.1920.990" timestamp="1588293112730" />
     <state width="1878" height="369" key="GridCell.Tab.0.left/0.23.1920.991@0.23.1920.991" timestamp="1588119181457" />
-    <state width="1878" height="286" key="GridCell.Tab.0.left/0.23.1920.992@0.23.1920.992" timestamp="1592941910317" />
-    <state width="1878" height="252" key="GridCell.Tab.0.left/0.23.1920.993@0.23.1920.993" timestamp="1591659035358" />
-    <state width="1878" height="286" key="GridCell.Tab.0.left/0.23.1920.994@0.23.1920.994" timestamp="1592946897624" />
+    <state width="1878" height="286" key="GridCell.Tab.0.left/0.23.1920.992@0.23.1920.992" timestamp="1593007564377" />
+    <state width="1878" height="251" key="GridCell.Tab.0.left/0.23.1920.993@0.23.1920.993" timestamp="1593017878114" />
+    <state width="1878" height="286" key="GridCell.Tab.0.left/0.23.1920.994@0.23.1920.994" timestamp="1592947515266" />
     <state width="1878" height="286" key="GridCell.Tab.0.left/0.23.1920.996@0.23.1920.996" timestamp="1592944806139" />
     <state width="1878" height="286" key="GridCell.Tab.0.left/0.23.1920.997@0.23.1920.997" timestamp="1592944853726" />
-    <state width="1878" height="286" key="GridCell.Tab.0.right" timestamp="1592946897626">
-      <screen x="0" y="23" width="1920" height="994" />
+    <state width="1878" height="251" key="GridCell.Tab.0.right" timestamp="1593017878115">
+      <screen x="0" y="23" width="1920" height="993" />
     </state>
-    <state width="927" height="286" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1592941784773" />
+    <state width="1878" height="286" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593016932654" />
     <state width="1438" height="192" key="GridCell.Tab.0.right/0.23.1920.1001@0.23.1920.1001" timestamp="1588281547590" />
     <state width="1878" height="419" key="GridCell.Tab.0.right/0.23.1920.1002@0.23.1920.1002" timestamp="1588255857585" />
     <state width="953" height="347" key="GridCell.Tab.0.right/0.23.1920.983@0.23.1920.983" timestamp="1586452758020" />
@@ -363,9 +302,9 @@
     <state width="1878" height="369" key="GridCell.Tab.0.right/0.23.1920.988@0.23.1920.988" timestamp="1588038519811" />
     <state width="1438" height="312" key="GridCell.Tab.0.right/0.23.1920.990@0.23.1920.990" timestamp="1588293112730" />
     <state width="1878" height="369" key="GridCell.Tab.0.right/0.23.1920.991@0.23.1920.991" timestamp="1588119181457" />
-    <state width="1878" height="286" key="GridCell.Tab.0.right/0.23.1920.992@0.23.1920.992" timestamp="1592941910319" />
-    <state width="1878" height="252" key="GridCell.Tab.0.right/0.23.1920.993@0.23.1920.993" timestamp="1591659035359" />
-    <state width="1878" height="286" key="GridCell.Tab.0.right/0.23.1920.994@0.23.1920.994" timestamp="1592946897626" />
+    <state width="1878" height="286" key="GridCell.Tab.0.right/0.23.1920.992@0.23.1920.992" timestamp="1593007564378" />
+    <state width="1878" height="251" key="GridCell.Tab.0.right/0.23.1920.993@0.23.1920.993" timestamp="1593017878115" />
+    <state width="1878" height="286" key="GridCell.Tab.0.right/0.23.1920.994@0.23.1920.994" timestamp="1592947515268" />
     <state width="1878" height="286" key="GridCell.Tab.0.right/0.23.1920.996@0.23.1920.996" timestamp="1592944806139" />
     <state width="1878" height="286" key="GridCell.Tab.0.right/0.23.1920.997@0.23.1920.997" timestamp="1592944853727" />
     <state width="1091" height="376" key="GridCell.Tab.1.bottom" timestamp="1590080634371">
@@ -465,9 +404,10 @@
     </state>
     <state x="625" y="238" key="run.anything.popup/0.23.1920.1001@0.23.1920.1001" timestamp="1587587850335" />
     <state x="625" y="235" key="run.anything.popup/0.23.1920.988@0.23.1920.988" timestamp="1588028386611" />
-    <state x="1106" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1589828187547">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="1106" y="244" width="670" height="621" key="search.everywhere.popup" timestamp="1593006577434">
+      <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state x="1106" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1589828187547" />
+    <state x="1106" y="244" width="670" height="621" key="search.everywhere.popup/0.23.1920.992@0.23.1920.992" timestamp="1593006577434" />
   </component>
 </project>

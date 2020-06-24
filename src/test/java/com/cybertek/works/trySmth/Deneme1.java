@@ -1,4 +1,4 @@
-package com.cybertek.works;
+package com.cybertek.works.trySmth;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -17,6 +17,8 @@ public class Deneme1 {
             list.put("c", "bb");
             list.put("d", "bb");
         System.out.println(list);
+
+
 
         for (Map.Entry<String, Object> row: list.entrySet()) {
             System.out.println(row.getKey() + " = $ " + row.getValue());

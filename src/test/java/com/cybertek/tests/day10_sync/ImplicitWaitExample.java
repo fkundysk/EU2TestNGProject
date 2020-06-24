@@ -33,9 +33,6 @@ public class ImplicitWaitExample {
     public void test1() throws InterruptedException {
         driver.get("http://practice.cybertekschool.com/dynamic_loading/4");
 
-
-
-
         String message = driver.findElement(By.cssSelector("#finish")).getText();
         System.out.println(message);
 

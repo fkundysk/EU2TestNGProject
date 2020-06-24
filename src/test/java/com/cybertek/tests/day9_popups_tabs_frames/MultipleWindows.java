@@ -70,19 +70,14 @@ public class MultipleWindows {
 
         // loop through each window
         for (String handle : windowHandles) {
-
             driver.switchTo().window(handle);
             // whenever your title equals to your expected window title
-
             if (driver.getTitle().equals("New Window")){
                 // stop on the that window
                 break;
             }
-
         }
-
         System.out.println("After switch " + driver.getTitle());
-
     }
 
 }

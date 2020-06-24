@@ -1,4 +1,4 @@
-package com.cybertek.works;
+package com.cybertek.works.trySmth;
 
 public class StringBuilder {
     public static void main(String[] args) {
