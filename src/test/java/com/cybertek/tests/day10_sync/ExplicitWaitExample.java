@@ -45,8 +45,8 @@ public class ExplicitWaitExample {
         //calling until method from wait object
         wait.until(ExpectedConditions.visibilityOf(usernameInputbox));
 
-
         usernameInputbox.sendKeys("MikeSmith");
+
 
     }
       @Test
