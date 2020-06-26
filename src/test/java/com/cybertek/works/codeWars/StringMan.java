@@ -34,6 +34,7 @@ public class StringMan {
         System.out.println("eachWord = " + Arrays.toString(eachWord));
 
         for (String  each: eachWord ) {
+            each = each.trim();
             if(each.length()>=5){
              StringBuilder sb = new StringBuilder();
              newSentence = newSentence + " " + sb.append(each).reverse();

@@ -30,6 +30,7 @@ public abstract class BasePage {
     public WebElement myUser;
 
     public BasePage() {
+
         PageFactory.initElements(Driver.get(), this);
     }
 
