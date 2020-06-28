@@ -2,6 +2,7 @@ package com.cybertek.works.codeWars;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.LinkedList;
 import java.util.List;
 
 public class StringMan2 {
@@ -32,7 +33,7 @@ Assertion messages may be unclear about what they display in some languages. If 
     static String encode(String word){
         String encode= "";
         String[] letters = word.split("");
-        List<String> letterList = new ArrayList<>();
+        List<String> letterList = new LinkedList<>();
         for (String letter : letters) {
             letterList.add(letter);
         }

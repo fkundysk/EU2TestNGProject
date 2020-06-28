@@ -20,18 +20,93 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55e433fb-8099-4f09-b250-bab845a48ded" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/codeWars/StringMan2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/codeWars/StringRemove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/codeWars/StringUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/codeWars/findShort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/codeWars/isogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/codeWars/unique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/codeWars/DRootExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/codeWars/EnoughIsEnoughTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/codeWars/anagramOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/codeWars/removeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/codeWars/smileCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/works/codeWars/StringMan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/codeWars/StringMan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/BasePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/CreateCalendarEventsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/CreateCalendarEventsPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/codeWars/StringMan.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/codeWars/StringMan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/works/codeWars/StringMan2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/works/codeWars/StringMan2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/CalendarEventsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/CalendarEventsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/ContactInfoPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/ContactInfoPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/ContactsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/ContactsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/DashboardPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/DashboardPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/FirstClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/FirstClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day11_file_upload/FilePathExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day11_file_upload/FilePathExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day11_file_upload/FileUploadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day11_file_upload/FileUploadTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day12_actions_jsexecuter/ActionsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day12_actions_jsexecuter/ActionsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day12_actions_jsexecuter/HoverTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day12_actions_jsexecuter/HoverTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day12_actions_jsexecuter/JavaScriptExecutorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day12_actions_jsexecuter/JavaScriptExecutorDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day13_webtables/WebTablesExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day13_webtables/WebTablesExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day14_properties_driver_test/AnotherLoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day14_properties_driver_test/AnotherLoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day14_properties_driver_test/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day14_properties_driver_test/LoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day14_properties_driver_test/PropertiesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day14_properties_driver_test/PropertiesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day14_properties_driver_test/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day14_properties_driver_test/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day14_properties_driver_test/SingletonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day14_properties_driver_test/SingletonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day16_pom/NegativeLoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day16_pom/NegativeLoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day16_pom/PageSubtitleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day16_pom/PageSubtitleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day16_pom/PositiveLoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day16_pom/PositiveLoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day16_pom/RepeatOptionsTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day16_pom/RepeatOptionsTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day17_extent_reports/ExtentDemoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day17_extent_reports/ExtentDemoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day17_extent_reports/NegativeLoginTestWithReport.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day17_extent_reports/NegativeLoginTestWithReport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day19_ddf/DDFLoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day19_ddf/DDFLoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day19_ddf/DDFWithDataProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day19_ddf/DDFWithDataProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day19_ddf/ExcelUtilsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day19_ddf/ExcelUtilsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day1_Intro/OpenBrowser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day1_Intro/OpenBrowser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_webdriver_basics/CloseAndQuit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_webdriver_basics/CloseAndQuit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_webdriver_basics/NavigationDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_webdriver_basics/NavigationDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_webdriver_basics/callWebDriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_webdriver_basics/callWebDriverFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day3_webelement_inro/verifyConfirmationMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day3_webelement_inro/verifyConfirmationMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day3_webelement_inro/verifyUrlChanged.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day3_webelement_inro/verifyUrlChanged.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day3_webelement_inro/verifyUrlNotChanged.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day3_webelement_inro/verifyUrlNotChanged.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day4_basic_locators/IDLocatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day4_basic_locators/IDLocatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day4_basic_locators/classNameTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day4_basic_locators/classNameTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day4_basic_locators/linkTextAndPartialLinkTextTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day4_basic_locators/linkTextAndPartialLinkTextTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day4_basic_locators/nameLocatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day4_basic_locators/nameLocatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day4_basic_locators/tagNameLocatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day4_basic_locators/tagNameLocatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day5_xpathLocator/AmazonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day5_xpathLocator/AmazonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day5_xpathLocator/xpathDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day5_xpathLocator/xpathDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day6_css/cssDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day6_css/cssDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_testng/BeforeAfterTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_testng/BeforeAfterTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_testng/FirstTestNGTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_testng/FirstTestNGTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_types_of_elements/DisabledButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_types_of_elements/DisabledButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_types_of_elements/RadioButtonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_types_of_elements/RadioButtonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day8_types_of_elements2/AttributeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day8_types_of_elements2/AttributeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day8_types_of_elements2/CheckBoxDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day8_types_of_elements2/CheckBoxDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day8_types_of_elements2/DisplayDemoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day8_types_of_elements2/DisplayDemoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day8_types_of_elements2/ListOfElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day8_types_of_elements2/ListOfElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day8_types_of_elements2/NoSelectDropdown.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day8_types_of_elements2/NoSelectDropdown.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day8_types_of_elements2/SelectClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day8_types_of_elements2/SelectClassTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day9_popups_tabs_frames/iFrames.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day9_popups_tabs_frames/iFrames.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/BrowserUtils$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/BrowserUtils$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/BrowserUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/BrowserUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/ConfigurationReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/ConfigurationReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/ExcelUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/ExcelUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/WebDriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/WebDriverFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/LocatorHomework/TestCase1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/LocatorHomework/TestCase1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/LocatorHomework/TestCase2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/LocatorHomework/TestCase2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/codeWars/StringMan2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/codeWars/StringMan2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/day16_homeWork_VyTrack/BasePageHw.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/day16_homeWork_VyTrack/BasePageHw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/day16_homeWork_VyTrack/CalendarEventsInformationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/day16_homeWork_VyTrack/CalendarEventsInformationPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/day16_homeWork_VyTrack/CalendarEventsPageHw.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/day16_homeWork_VyTrack/CalendarEventsPageHw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/day16_homeWork_VyTrack/CreateCalendarEventsPageHw.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/day16_homeWork_VyTrack/CreateCalendarEventsPageHw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/day16_homeWork_VyTrack/DashBoardPageHw.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/day16_homeWork_VyTrack/DashBoardPageHw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/day16_homeWork_VyTrack/LoginPageHw.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/day16_homeWork_VyTrack/LoginPageHw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/day16_homeWork_VyTrack/TestBaseHw.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/day16_homeWork_VyTrack/TestBaseHw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/day16_homeWork_VyTrack/VyTrack/CreateCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/day16_homeWork_VyTrack/VyTrack/CreateCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/day16_homeWork_VyTrack/homeWork.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/day16_homeWork_VyTrack/homeWork.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/homeWork/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/homeWork/test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/homeWork/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/homeWork/test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/homeWork/test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/homeWork/test3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/homeWork/test4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/homeWork/test4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/homeWork/test5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/homeWork/test5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/homeWork/test6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/homeWork/test6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/homeWork/test7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/homeWork/test7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/homeWork/test8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/homeWork/test8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/homeWork/test9to12.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/works/homeWork/test9to12.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,9 +163,9 @@
       <recent name="$PROJECT_DIR$/src/test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.unique">
-    <configuration name="StringMan2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.works.codeWars.StringMan2" />
+  <component name="RunManager" selected="Application.anagramOrNot">
+    <configuration name="DRootExampleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.works.codeWars.DRootExampleTest" />
       <module name="EU2TestNGProject" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +177,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.works.codeWars.StringUnique" />
+    <configuration name="EnoughIsEnoughTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.works.codeWars.EnoughIsEnoughTest" />
       <module name="EU2TestNGProject" />
       <extension name="coverage">
         <pattern>
@@ -115,8 +190,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findShort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.works.codeWars.findShort" />
+    <configuration name="anagramOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.works.codeWars.anagramOrNot" />
       <module name="EU2TestNGProject" />
       <extension name="coverage">
         <pattern>
@@ -128,8 +203,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.works.codeWars.isogram" />
+    <configuration name="removeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.works.codeWars.removeNumbers" />
       <module name="EU2TestNGProject" />
       <extension name="coverage">
         <pattern>
@@ -141,8 +216,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="unique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.works.codeWars.unique" />
+    <configuration name="smileCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.works.codeWars.smileCount" />
       <module name="EU2TestNGProject" />
       <extension name="coverage">
         <pattern>
@@ -156,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.unique" />
-        <item itemvalue="Application.findShort" />
-        <item itemvalue="Application.isogram" />
-        <item itemvalue="Application.StringMan2" />
-        <item itemvalue="Application.StringUnique" />
+        <item itemvalue="Application.anagramOrNot" />
+        <item itemvalue="Application.DRootExampleTest" />
+        <item itemvalue="Application.smileCount" />
+        <item itemvalue="Application.EnoughIsEnoughTest" />
+        <item itemvalue="Application.removeNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +309,7 @@
     </state>
     <state x="1228" y="302" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1588554346021" />
     <state x="1228" y="301" key="FileChooserDialogImpl/0.23.1920.994@0.23.1920.994" timestamp="1590574346084" />
-    <state width="1878" height="218" key="GridCell.Tab.0.bottom" timestamp="1593162653050">
+    <state width="1878" height="218" key="GridCell.Tab.0.bottom" timestamp="1593383709385">
       <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state width="1878" height="250" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593122777198" />
@@ -246,12 +321,12 @@
     <state width="1878" height="369" key="GridCell.Tab.0.bottom/0.23.1920.988@0.23.1920.988" timestamp="1588038519811" />
     <state width="1438" height="312" key="GridCell.Tab.0.bottom/0.23.1920.990@0.23.1920.990" timestamp="1588293112731" />
     <state width="1878" height="369" key="GridCell.Tab.0.bottom/0.23.1920.991@0.23.1920.991" timestamp="1588119181458" />
-    <state width="1878" height="218" key="GridCell.Tab.0.bottom/0.23.1920.992@0.23.1920.992" timestamp="1593162653050" />
-    <state width="964" height="251" key="GridCell.Tab.0.bottom/0.23.1920.993@0.23.1920.993" timestamp="1593029865192" />
+    <state width="1878" height="218" key="GridCell.Tab.0.bottom/0.23.1920.992@0.23.1920.992" timestamp="1593383709385" />
+    <state width="1878" height="218" key="GridCell.Tab.0.bottom/0.23.1920.993@0.23.1920.993" timestamp="1593344942391" />
     <state width="1878" height="286" key="GridCell.Tab.0.bottom/0.23.1920.994@0.23.1920.994" timestamp="1592947515268" />
     <state width="1878" height="286" key="GridCell.Tab.0.bottom/0.23.1920.996@0.23.1920.996" timestamp="1592944806140" />
     <state width="1878" height="286" key="GridCell.Tab.0.bottom/0.23.1920.997@0.23.1920.997" timestamp="1592944853727" />
-    <state width="1878" height="218" key="GridCell.Tab.0.center" timestamp="1593162653049">
+    <state width="1878" height="218" key="GridCell.Tab.0.center" timestamp="1593383709384">
       <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state width="1878" height="250" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593122777195" />
@@ -263,12 +338,12 @@
     <state width="1878" height="369" key="GridCell.Tab.0.center/0.23.1920.988@0.23.1920.988" timestamp="1588038519810" />
     <state width="1438" height="312" key="GridCell.Tab.0.center/0.23.1920.990@0.23.1920.990" timestamp="1588293112730" />
     <state width="1878" height="369" key="GridCell.Tab.0.center/0.23.1920.991@0.23.1920.991" timestamp="1588119181457" />
-    <state width="1878" height="218" key="GridCell.Tab.0.center/0.23.1920.992@0.23.1920.992" timestamp="1593162653049" />
-    <state width="964" height="251" key="GridCell.Tab.0.center/0.23.1920.993@0.23.1920.993" timestamp="1593029865191" />
+    <state width="1878" height="218" key="GridCell.Tab.0.center/0.23.1920.992@0.23.1920.992" timestamp="1593383709384" />
+    <state width="1878" height="218" key="GridCell.Tab.0.center/0.23.1920.993@0.23.1920.993" timestamp="1593344942389" />
     <state width="1878" height="286" key="GridCell.Tab.0.center/0.23.1920.994@0.23.1920.994" timestamp="1592947515267" />
     <state width="1878" height="286" key="GridCell.Tab.0.center/0.23.1920.996@0.23.1920.996" timestamp="1592944806139" />
     <state width="1878" height="286" key="GridCell.Tab.0.center/0.23.1920.997@0.23.1920.997" timestamp="1592944853727" />
-    <state width="1878" height="218" key="GridCell.Tab.0.left" timestamp="1593162653049">
+    <state width="1878" height="218" key="GridCell.Tab.0.left" timestamp="1593383709383">
       <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state width="1878" height="250" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593122777194" />
@@ -280,12 +355,12 @@
     <state width="1878" height="369" key="GridCell.Tab.0.left/0.23.1920.988@0.23.1920.988" timestamp="1588038519810" />
     <state width="1438" height="312" key="GridCell.Tab.0.left/0.23.1920.990@0.23.1920.990" timestamp="1588293112730" />
     <state width="1878" height="369" key="GridCell.Tab.0.left/0.23.1920.991@0.23.1920.991" timestamp="1588119181457" />
-    <state width="1878" height="218" key="GridCell.Tab.0.left/0.23.1920.992@0.23.1920.992" timestamp="1593162653049" />
-    <state width="964" height="251" key="GridCell.Tab.0.left/0.23.1920.993@0.23.1920.993" timestamp="1593029865190" />
+    <state width="1878" height="218" key="GridCell.Tab.0.left/0.23.1920.992@0.23.1920.992" timestamp="1593383709383" />
+    <state width="1878" height="218" key="GridCell.Tab.0.left/0.23.1920.993@0.23.1920.993" timestamp="1593344942384" />
     <state width="1878" height="286" key="GridCell.Tab.0.left/0.23.1920.994@0.23.1920.994" timestamp="1592947515266" />
     <state width="1878" height="286" key="GridCell.Tab.0.left/0.23.1920.996@0.23.1920.996" timestamp="1592944806139" />
     <state width="1878" height="286" key="GridCell.Tab.0.left/0.23.1920.997@0.23.1920.997" timestamp="1592944853726" />
-    <state width="1878" height="218" key="GridCell.Tab.0.right" timestamp="1593162653050">
+    <state width="1878" height="218" key="GridCell.Tab.0.right" timestamp="1593383709384">
       <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state width="1878" height="250" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593122777197" />
@@ -297,44 +372,48 @@
     <state width="1878" height="369" key="GridCell.Tab.0.right/0.23.1920.988@0.23.1920.988" timestamp="1588038519811" />
     <state width="1438" height="312" key="GridCell.Tab.0.right/0.23.1920.990@0.23.1920.990" timestamp="1588293112730" />
     <state width="1878" height="369" key="GridCell.Tab.0.right/0.23.1920.991@0.23.1920.991" timestamp="1588119181457" />
-    <state width="1878" height="218" key="GridCell.Tab.0.right/0.23.1920.992@0.23.1920.992" timestamp="1593162653050" />
-    <state width="964" height="251" key="GridCell.Tab.0.right/0.23.1920.993@0.23.1920.993" timestamp="1593029865191" />
+    <state width="1878" height="218" key="GridCell.Tab.0.right/0.23.1920.992@0.23.1920.992" timestamp="1593383709384" />
+    <state width="1878" height="218" key="GridCell.Tab.0.right/0.23.1920.993@0.23.1920.993" timestamp="1593344942390" />
     <state width="1878" height="286" key="GridCell.Tab.0.right/0.23.1920.994@0.23.1920.994" timestamp="1592947515268" />
     <state width="1878" height="286" key="GridCell.Tab.0.right/0.23.1920.996@0.23.1920.996" timestamp="1592944806139" />
     <state width="1878" height="286" key="GridCell.Tab.0.right/0.23.1920.997@0.23.1920.997" timestamp="1592944853727" />
-    <state width="1091" height="376" key="GridCell.Tab.1.bottom" timestamp="1590080634371">
-      <screen x="0" y="23" width="1920" height="993" />
+    <state width="1878" height="332" key="GridCell.Tab.1.bottom" timestamp="1593335971315">
+      <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state width="1091" height="376" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1589907718952" />
     <state width="1438" height="312" key="GridCell.Tab.1.bottom/0.23.1920.1001@0.23.1920.1001" timestamp="1588279033064" />
     <state width="1438" height="312" key="GridCell.Tab.1.bottom/0.23.1920.990@0.23.1920.990" timestamp="1588293112732" />
+    <state width="1878" height="332" key="GridCell.Tab.1.bottom/0.23.1920.992@0.23.1920.992" timestamp="1593335971315" />
     <state width="1091" height="376" key="GridCell.Tab.1.bottom/0.23.1920.993@0.23.1920.993" timestamp="1590080634371" />
     <state width="1878" height="330" key="GridCell.Tab.1.bottom/0.23.1920.994@0.23.1920.994" timestamp="1588167818878" />
     <state width="1878" height="330" key="GridCell.Tab.1.bottom/0.23.1920.996@0.23.1920.996" timestamp="1588120180930" />
-    <state width="1091" height="376" key="GridCell.Tab.1.center" timestamp="1590080634371">
-      <screen x="0" y="23" width="1920" height="993" />
+    <state width="1878" height="332" key="GridCell.Tab.1.center" timestamp="1593335971314">
+      <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state width="1091" height="376" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1589907718951" />
     <state width="1438" height="312" key="GridCell.Tab.1.center/0.23.1920.1001@0.23.1920.1001" timestamp="1588279033063" />
     <state width="1438" height="312" key="GridCell.Tab.1.center/0.23.1920.990@0.23.1920.990" timestamp="1588293112732" />
+    <state width="1878" height="332" key="GridCell.Tab.1.center/0.23.1920.992@0.23.1920.992" timestamp="1593335971314" />
     <state width="1091" height="376" key="GridCell.Tab.1.center/0.23.1920.993@0.23.1920.993" timestamp="1590080634371" />
     <state width="1878" height="330" key="GridCell.Tab.1.center/0.23.1920.994@0.23.1920.994" timestamp="1588167818877" />
     <state width="1878" height="330" key="GridCell.Tab.1.center/0.23.1920.996@0.23.1920.996" timestamp="1588120180927" />
-    <state width="1091" height="376" key="GridCell.Tab.1.left" timestamp="1590080634370">
-      <screen x="0" y="23" width="1920" height="993" />
+    <state width="1878" height="332" key="GridCell.Tab.1.left" timestamp="1593335971314">
+      <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state width="1091" height="376" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1589907718948" />
     <state width="1438" height="312" key="GridCell.Tab.1.left/0.23.1920.1001@0.23.1920.1001" timestamp="1588279033063" />
     <state width="1438" height="312" key="GridCell.Tab.1.left/0.23.1920.990@0.23.1920.990" timestamp="1588293112731" />
+    <state width="1878" height="332" key="GridCell.Tab.1.left/0.23.1920.992@0.23.1920.992" timestamp="1593335971314" />
     <state width="1091" height="376" key="GridCell.Tab.1.left/0.23.1920.993@0.23.1920.993" timestamp="1590080634370" />
     <state width="1878" height="330" key="GridCell.Tab.1.left/0.23.1920.994@0.23.1920.994" timestamp="1588167818877" />
     <state width="1878" height="330" key="GridCell.Tab.1.left/0.23.1920.996@0.23.1920.996" timestamp="1588120180926" />
-    <state width="1091" height="376" key="GridCell.Tab.1.right" timestamp="1590080634371">
-      <screen x="0" y="23" width="1920" height="993" />
+    <state width="1878" height="332" key="GridCell.Tab.1.right" timestamp="1593335971314">
+      <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state width="1091" height="376" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1589907718951" />
     <state width="1438" height="312" key="GridCell.Tab.1.right/0.23.1920.1001@0.23.1920.1001" timestamp="1588279033063" />
     <state width="1438" height="312" key="GridCell.Tab.1.right/0.23.1920.990@0.23.1920.990" timestamp="1588293112732" />
+    <state width="1878" height="332" key="GridCell.Tab.1.right/0.23.1920.992@0.23.1920.992" timestamp="1593335971314" />
     <state width="1091" height="376" key="GridCell.Tab.1.right/0.23.1920.993@0.23.1920.993" timestamp="1590080634371" />
     <state width="1878" height="330" key="GridCell.Tab.1.right/0.23.1920.994@0.23.1920.994" timestamp="1588167818877" />
     <state width="1878" height="330" key="GridCell.Tab.1.right/0.23.1920.996@0.23.1920.996" timestamp="1588120180927" />
